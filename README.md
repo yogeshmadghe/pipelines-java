@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yogeshmadghe/First-ADO-Pipeline/_apis/build/status/yogeshmadghe.pipelines-java?branchName=master)](https://dev.azure.com/yogeshmadghe/First-ADO-Pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
